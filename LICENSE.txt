@@ -1,4 +1,12 @@
-(c) beter | (c) Chun Yu Yao | Copyright (c) 2014-2018, o_tamon, with Reserved Font Name 'GenEi'. | (c) But Ko | Copyright (c) 2014-2019 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. | Copyright (C) FONT 910 | Copyright (c) 2003-2012, Philipp H. Poll | Copyright (c) 2008-2014, Classical Letter Project | Copyright 2013 Google Inc. | Font Awesome
+(c) beter
+(c) Chun Yu Yao
+Copyright (c) 2014-2018, o_tamon, with Reserved Font Name 'GenEi'.
+(c) But Ko
+Copyright (c) 2014-2019 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.
+Copyright (C) FONT 910
+Copyright (c) 2003-2012, Philipp H. Poll
+Copyright (c) 2008-2014, Classical Letter Project
+Copyright 2013 Google Inc. | Font Awesome
 
 
 This Font Software is licensed under the SIL Open Font License,
